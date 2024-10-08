@@ -39,6 +39,7 @@ const NavbarResponsive = () => {
                 </div>
             </nav>
         </header >
+
     )
 }
 

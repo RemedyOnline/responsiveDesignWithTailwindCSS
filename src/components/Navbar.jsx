@@ -6,7 +6,7 @@ import logoImage from "../assets/images/RemedyOnline-Logo.png"
 
 const Navbar = () => {
     return (
-        <div>
+        <header>
             <nav className='flex items-center gap-2 w-full justify-around bg-slate-100 py-2'>
                 <div >
                     <a href="#" className='flex items-center gap-2'>
@@ -35,7 +35,7 @@ const Navbar = () => {
                     </i> */}
                 </div>
             </nav>
-        </div>
+        </header>
     )
 }
 

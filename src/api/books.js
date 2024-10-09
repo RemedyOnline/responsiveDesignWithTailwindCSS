@@ -4,14 +4,14 @@
 const K = {
     BOOKS: [
         {
-            img: '...',
+            img: 'src/assets/images/gardenImage.jpg',
             id: 1,
             title: "Sapiens",
             author: "Yuval Noah Harari",
             genre: "History"
         },
         {
-            img: '...',
+            img: 'src/assets/images/RemedyOnline-Logo.png',
             id: 2,
             title: "1984",
             author: "George Orwell",

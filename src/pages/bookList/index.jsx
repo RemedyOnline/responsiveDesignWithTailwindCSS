@@ -27,11 +27,9 @@ const BookListPage = () => {
                             </div>
                         )
                     })
-
                 }
             </div>
         </div >
     )
 }
-
 export default BookListPage
